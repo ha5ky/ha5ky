@@ -5,6 +5,5 @@
   - kubernetes
   - docker
   - istio
-- chatGPT
-- interested in rust
+- vibe coding
 ...
